@@ -1,0 +1,239 @@
+*{
+    background-color: black;
+}
+
+nav{
+    display: flex;
+    background-color: black;
+    color:white;
+    justify-content: space-between;
+    width: 93vw;
+    height: 10vh;
+   
+}
+.icon-s>i{
+   padding-inline: 10px;
+   padding-top: 23px;
+}
+#about{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+}
+#about>h5{
+    padding-inline: 10px;
+    
+}
+.icon{
+    padding-inline: 10px;
+    color: white;
+}
+.icon:link{
+    text-decoration: none;
+}
+.px-1>div>h2:hover{
+    border-bottom: 2px solid blue;
+}
+#about>h5:hover{
+    border-bottom: 2px solid blue;
+}
+#main1{
+    width: 100vw;
+    height: 90vh;
+}
+#text{
+    margin-top: -400px;
+   color: white;
+   width: 30%;
+   height: 30%;
+   margin-left: 30px;
+}
+#text>hr{
+    width: 100%;
+    border: 3px solid red;
+    opacity:0.7;
+}
+#body1{
+    margin-top: 150px;
+    padding-top: 50px;
+    margin-inline: auto;
+    text-align: center;
+    align-items: center;
+    font-weight: 900;
+    font-size:xx-large;
+    color: white;
+}
+#body{
+    background-color: black;
+}
+#body>hr{
+    border: 3px solid red;
+    opacity:1.7;
+    margin-top: 0px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#body2{
+    margin-left: 70px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: left;
+    align-items: center;
+    color: white;
+    width: 70%;
+}
+#body2>img{
+    width: 331px;
+    height: 206px;
+}
+#body>div{
+    padding-inline: auto;
+    
+}
+.menu{
+    color: white;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 40px;
+}
+.menu>hr{
+    border: 3px solid red;
+    opacity:1.7;
+    margin-top: 0px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.menud{
+    margin-left: 70px;
+    margin-right: 40px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.menud1-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.menud1-1>div{
+    padding-left: 20px;
+}
+.menud1-1>div>h2{
+    color: gold;
+}
+.Carousel{
+    margin-left: 70px;
+    margin-right: 40px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.Carousel>hr{
+    border: 3px solid red;
+    opacity:1.7;
+    margin-top: 0px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.caro-i{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+.gallary{
+    display: flex;
+    margin: 10px;
+    text-wrap: nowrap;
+}
+.gal{
+    text-align: right;
+    align-items: center;
+}
+.gal>img{
+    width: 400px;
+    height: 300px;
+}
+.gal2{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    align-items: center;
+}
+.gal3{
+    text-align:left;
+    display: flex;
+    flex-direction: column;
+}
+.gal3-1{
+    text-align: center;
+}
+
+.gallhead{
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.gallhead>hr{
+    border: 3px solid red;
+    opacity:1.7;
+    margin-top: 0px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.findus{
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.findus>hr{
+    border: 3px solid red;
+    opacity:1.7;
+    margin-top: 0px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.find1{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.find-image>img{
+    width: 300px;
+    height: 220px;
+}
+.find-image{
+    margin-left: -80px;
+}
+.find-add {
+    margin-top: 30px;
+    display: flex;
+    justify-content:center;
+}
+.find-add>i{
+    padding-inline: 20px;
+}
+.find-call{
+    margin-top: 10px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.find-call-call{
+    padding-inline: 20px;
+}
+.find-call-icon>i{
+   height: 40px;
+   width: 40px;
+}
